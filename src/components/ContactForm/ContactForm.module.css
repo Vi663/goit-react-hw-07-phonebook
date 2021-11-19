@@ -1,0 +1,39 @@
+.contactForm {
+  padding: 20px;
+}
+
+.contactInput {
+  width: 150px;
+  height: 20px;
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  margin: 0 15px;
+  border-radius: 5px;
+  border: 1px #e46c6cea solid;
+}
+
+.contactLabel {
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+}
+
+.contactBtn {
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  width: 120px;
+  height: 25px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #e46c6cea;
+  color: rgb(255, 255, 255);
+}

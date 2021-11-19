@@ -1,0 +1,19 @@
+.filterLabel {
+  padding: 20px;
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.03em;
+  
+}
+
+.filterInput {
+  width: 150px;
+  height: 20px;
+  font-family: Roboto, serif;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  margin-left: 15px;
+  border-radius: 5px;
+  border: 1px #e46c6cea solid;
+}
